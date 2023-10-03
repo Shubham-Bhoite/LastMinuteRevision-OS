@@ -24,6 +24,15 @@ According to the functionality that operating Systems provides the types are:
 -   4] Multithreading: In multithreading you have multiple threads running within a process in interleaved fashion.
   ----
 
+# 3) What is Kernel ? Explain the types of kernel ==>
+The kernel is basically a computer program usually considered as a central component or module of OS. It is responsible for handling, managing, and controlling all operations of computer systems and hardware. Whenever the system starts, the kernel is loaded first and remains in the main memory. It also acts as an interface between user applications and hardware.
+![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/45748756-c307-4f3b-9f2f-6d09df13a5b2)
+
+## Types of Kernel:
+-  Monolithic Kernel: In this type of OS kernel, all user and kernel services reside in the same memory space. Old operating systems would use this type of kernel. Some examples are Windows 95, 98, and Unix. Linux also uses it.
+
+-  MicroKernel: This kernel type is small, and all the user and kernel services reside in different memory addresses. Operating systems like macOS and Windows use microkernels.
+
 
 
 
