@@ -33,6 +33,11 @@ The kernel is basically a computer program usually considered as a central compo
 
 -  MicroKernel: This kernel type is small, and all the user and kernel services reside in different memory addresses. Operating systems like macOS and Windows use microkernels.
 
+# 4) Difference between Kernel and OS?
+-   Kernel: Kernel is a system program that controls all programs running on the computer. The kernel is basically a bridge between the software and hardware of the system.
+
+-   Operating System: Operating system is a system program that runs on the computer to provide an interface to the computer user so that they can easily operate on the computer.
+ -   ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/5f52d083-1a10-40d6-9f7b-c86dc4f9a1da)
 
 
 
