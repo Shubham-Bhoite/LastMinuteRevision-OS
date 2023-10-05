@@ -39,5 +39,11 @@ The kernel is basically a computer program usually considered as a central compo
 -   Operating System: Operating system is a system program that runs on the computer to provide an interface to the computer user so that they can easily operate on the computer.
  -   ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/5f52d083-1a10-40d6-9f7b-c86dc4f9a1da)
 
+# 5) What is a process? Name all the states of a Process ?
+-   A process is a program in execution. when a program goes to RAM and start running then become a process.
+-   All the states of process are defined in the image below:
+
+![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/1b2a8eb6-8ff0-4cdd-9b62-328a5adf3403)
+
 
 
