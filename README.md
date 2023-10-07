@@ -48,6 +48,9 @@ The kernel is basically a computer program usually considered as a central compo
 # 6) What is a thread?
 -  A thread is a lightweight process that shares the same memory space as the parent process. It allows multiple tasks to run concurrently within a single process. Basically, It is a path of execution that is composed of the program counter, thread id, stack, and set of registers within the process.
 
+# 7) What is difference between process and thread?
+
+![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/eb642905-0a6d-4d5b-9b12-42355b6966fd)
 
 
 
