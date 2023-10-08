@@ -53,4 +53,9 @@ The kernel is basically a computer program usually considered as a central compo
 ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/eb642905-0a6d-4d5b-9b12-42355b6966fd)
 
 
+# 8) What is Starvation and Aging?
+-  Starvation: It is generally a problem that usually occurs when a process has not been able to get the required resources it needs for progress with its execution for a long period of time. In this condition, low priority processes get blocked and only high priority processes proceed towards completion because of which low priority processes suffer from lack of resources.
+
+-  Aging: It is a technique that is used to overcome the situation or problem of starvation. It simply increases the priority of processes that wait in the system for resources for a long period of time. It is considered the best technique to resolve the problem of starvation as it adds an aging factor to the priority of each and every request by various processes for resources. It also ensures that low-level queue jobs or processes complete their execution.
+
 
