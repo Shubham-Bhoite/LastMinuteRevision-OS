@@ -60,3 +60,7 @@ The kernel is basically a computer program usually considered as a central compo
 
 # 9) What is Context Switching?
 -  Context switching is basically a process of saving the context of one process and loading the context of another process. It is one of the cost-effective and time-saving measures executed by CPU because it allows multiple processes to share a single CPU. This technique is used by OS to switch a process from one state to another i.e., from running state to ready state.
+
+# 10)  Difference between preemptive and non-preemptive scheduling?
+
+-  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/997186df-0a94-4b94-927e-175b453a8f1b)
