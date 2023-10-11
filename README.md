@@ -64,3 +64,12 @@ The kernel is basically a computer program usually considered as a central compo
 # 10)  Difference between preemptive and non-preemptive scheduling?
 
 -  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/997186df-0a94-4b94-927e-175b453a8f1b)
+
+# 11) What is a Scheduling Algorithm? Name different types of scheduling algorithms.
+-  A scheduling algorithm is a process that is used to improve efficiency by utilizing maximum CPU and providing minimum waiting time to tasks. It is used to allocate resources among various competing tasks.
+
+### Types of Scheduling Algorithm:
+
+-   ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/ef355c4a-b902-49b9-92a3-2cdf104e09e8)
+
+
