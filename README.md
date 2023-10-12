@@ -72,4 +72,21 @@ The kernel is basically a computer program usually considered as a central compo
 
 -   ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/ef355c4a-b902-49b9-92a3-2cdf104e09e8)
 
+## 1. First Come First Serve (FCFS):
+-  FCFS is the simplest scheduling algorithm. The idea is the process that comes first will scheduled first. FCFS is a non preemptive (when you assign a process to a processor you can't take it back) process. FCFS can cause starvation problems in which the process does not get the proper resources.
 
+## 2. Shortest Job First:
+-  It could be preemptive or non-preemptive. In this algorithm, the process gets the CPU closest to its execution. Here, the CPU gives priority to those jobs which have a low execution time. so that other process do not have to wait for too long.
+
+## 3. Shortest Remaining Time First (SRT):
+-  Shortest Remaining Time is the preemptive version of Shortest Job First algorithm, where the processor is allocated to the job closest to completion.
+
+## 4. Priority-Based Scheduling:
+-  It could be preemptive or non-preemptive. In this algorithm, Every job is assigned a priority and CPU is assigned to the highest priority job among all the jobs in the Ready queue.
+
+## 5. Round Robin Scheduling:
+-  The Round robin scheduling algorithm is one of the CPU scheduling algorithms in which every process gets a fixed amount of time quantum to execute the process.
+-  In this algorithm, every process gets executed cyclically. This means that processes that have their burst time remaining after the expiration of the time quantum are sent back to the ready state and wait for their next turn to complete the execution until it terminates. This processing is done in FIFO order which suggests that processes are executed on a first-come, first-serve basis.
+
+## 6. Multilevel Queue Scheduling:
+-  Multilevel queue scheduling is a type of CPU scheduling in which the processes in the ready state are divided into different groups, each group having its own scheduling needs. The ready queue is divided into different queues according to different properties of the process like memory size, process priority, or process type. All the different processes can be implemented in different ways.
