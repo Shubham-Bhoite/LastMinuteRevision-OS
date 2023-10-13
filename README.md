@@ -90,3 +90,12 @@ The kernel is basically a computer program usually considered as a central compo
 
 ## 6. Multilevel Queue Scheduling:
 -  Multilevel queue scheduling is a type of CPU scheduling in which the processes in the ready state are divided into different groups, each group having its own scheduling needs. The ready queue is divided into different queues according to different properties of the process like memory size, process priority, or process type. All the different processes can be implemented in different ways.
+
+
+# 12) What is a deadlock?
+-   When two processes are trying to execute simultaneously and waiting for each other to finish the execution, as they depend on each other, this halt in execution is known as a deadlock. When a deadlock occurs in the program, the system usually freezes.
+   
+-  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/b1818b20-66b7-40dc-9a86-6b49a202be59)
+
+
+
