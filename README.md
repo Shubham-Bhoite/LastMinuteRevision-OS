@@ -97,5 +97,10 @@ The kernel is basically a computer program usually considered as a central compo
    
 -  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/b1818b20-66b7-40dc-9a86-6b49a202be59)
 
-
+# 13) What are the necessary conditions for a deadlock?
+  The necessary conditions for a deadlock are as follows:
+  -  Mutual exclusion (Resources must be non shareable. e.g: printer)
+  -  Hold and wait (Process must be holding one resource and waiting for other resource)
+  -  No preemption (OS, assigned a resource to a process and can't take it back)
+  -  Circular wait (process are waiting in circle for each other)
 
