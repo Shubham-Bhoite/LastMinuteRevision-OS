@@ -104,3 +104,6 @@ The kernel is basically a computer program usually considered as a central compo
   -  No preemption (OS, assigned a resource to a process and can't take it back)
   -  Circular wait (process are waiting in circle for each other)
 
+# 14) What is process synchronization?
+-  When the race condition occurs, it can lead to an undesirable outcome. So to prevent the race condition, we follow a process known as synchronization. Here, we ensure that only one process executes at a time.
+
