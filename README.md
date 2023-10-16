@@ -107,3 +107,6 @@ The kernel is basically a computer program usually considered as a central compo
 # 14) What is process synchronization?
 -  When the race condition occurs, it can lead to an undesirable outcome. So to prevent the race condition, we follow a process known as synchronization. Here, we ensure that only one process executes at a time.
 
+# 15) What is a critical section?
+-  The program will behave oddly if program parts perform concurrent access to the shared resources. So to protect the shared resources of a program, we create a protected section known as the critical section or critical region.
+-  A critical section can only execute one process at a time, eliminating the problems concurrent accessing resources can cause.
