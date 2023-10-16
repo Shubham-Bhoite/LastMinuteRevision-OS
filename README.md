@@ -110,3 +110,10 @@ The kernel is basically a computer program usually considered as a central compo
 # 15) What is a critical section?
 -  The program will behave oddly if program parts perform concurrent access to the shared resources. So to protect the shared resources of a program, we create a protected section known as the critical section or critical region.
 -  A critical section can only execute one process at a time, eliminating the problems concurrent accessing resources can cause.
+
+# 16) What do you mean by Semaphore in OS?
+-  Semaphore is a synchronization mechanism that is used to control access to shared resources in multi-threaded or multi-process systems. It maintains a count of available resources and provides two atomic operations: wait() and signal(). It can have a count greater than one, allowing it to control access to a finite pool of resources.
+
+### Types of Semaphores: 2 Types
+1) Binary semaphore: A binary semaphore is a synchronization object that can only have two values: 0 and 1. It is used to signal the availability of a single resource, such as a shared memory location or a file.
+2) Counting semaphore: A counting semaphore is a synchronization object that can have a value greater than 1. It is used to control access to a finite number of resources, such as a pool of database connections or a limited number of threads.
