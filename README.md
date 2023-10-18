@@ -117,3 +117,7 @@ The kernel is basically a computer program usually considered as a central compo
 ### Types of Semaphores: 2 Types
 1) Binary semaphore: A binary semaphore is a synchronization object that can only have two values: 0 and 1. It is used to signal the availability of a single resource, such as a shared memory location or a file.
 2) Counting semaphore: A counting semaphore is a synchronization object that can have a value greater than 1. It is used to control access to a finite number of resources, such as a pool of database connections or a limited number of threads.
+
+# 17) What do you know about mutex?
+-  It is an abbreviation for Mut ual Exc lusion. It is a userspace program object that helps multiple threads to access the same resource, but not simultaneously. The sole purpose of a mutex is to lock a thread with a resource so the other threads can not use the same resource until the first thread finish executing.
+-  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/981f81b6-2884-406f-a5a0-4bf2eed15344)
