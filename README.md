@@ -121,3 +121,6 @@ The kernel is basically a computer program usually considered as a central compo
 # 17) What do you know about mutex?
 -  It is an abbreviation for Mut ual Exc lusion. It is a userspace program object that helps multiple threads to access the same resource, but not simultaneously. The sole purpose of a mutex is to lock a thread with a resource so the other threads can not use the same resource until the first thread finish executing.
 -  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/981f81b6-2884-406f-a5a0-4bf2eed15344)
+
+# 18) What is virtual memory?
+-  Virtual memory is a technique that enables a computer to use more memory than it physically has by temporarily transferring data from the RAM to the hard disk. It provides a way to run large applications that require more memory than the system has.
