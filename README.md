@@ -124,3 +124,7 @@ The kernel is basically a computer program usually considered as a central compo
 
 # 18) What is virtual memory?
 -  Virtual memory is a technique that enables a computer to use more memory than it physically has by temporarily transferring data from the RAM to the hard disk. It provides a way to run large applications that require more memory than the system has.
+
+# 19) What is demand paging?
+-  Demand paging is a concept used by a virtual machine. Only a part of the process needs to be present in the main memory to execute some process, meaning that only a few pages will be present in the main memory at any time, and the rest will be kept in the secondary memory.
+
