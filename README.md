@@ -128,3 +128,5 @@ The kernel is basically a computer program usually considered as a central compo
 # 19) What is demand paging?
 -  Demand paging is a concept used by a virtual machine. Only a part of the process needs to be present in the main memory to execute some process, meaning that only a few pages will be present in the main memory at any time, and the rest will be kept in the secondary memory.
 
+# 20) Differentiate between paging and segmentation?
+-  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/4fd7adc3-4e28-4a97-9335-058e372244e6)
