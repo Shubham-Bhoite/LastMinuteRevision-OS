@@ -130,3 +130,9 @@ The kernel is basically a computer program usually considered as a central compo
 
 # 20) Differentiate between paging and segmentation?
 -  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/4fd7adc3-4e28-4a97-9335-058e372244e6)
+
+# 21) What is cache memory?
+-  It is a volatile computer memory directly attached to the register, which provides high-speed data access to the processor.
+
+# 22) What is a page in OS?
+-  A page can be defined as the smallest unit of data, a fixed-length contiguous block of virtual memory.
