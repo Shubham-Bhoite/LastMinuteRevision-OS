@@ -136,3 +136,10 @@ The kernel is basically a computer program usually considered as a central compo
 
 # 22) What is a page in OS?
 -  A page can be defined as the smallest unit of data, a fixed-length contiguous block of virtual memory.
+
+# 23) Explain page frames.
+When a page is transferred from the secondary memory to the main memory, it requires a fixed length of a continuous physical memory block, known as a page frame. The operating system's job is to map the pages in the page frames.
+
+# 25) What is the page fault?
+An error occurs when the CPU tries to access a specific block of memory address not present in the physical memory (RAM).
+
