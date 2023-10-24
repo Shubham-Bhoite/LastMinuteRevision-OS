@@ -140,8 +140,14 @@ The kernel is basically a computer program usually considered as a central compo
 # 23) Explain page frames.
 When a page is transferred from the secondary memory to the main memory, it requires a fixed length of a continuous physical memory block, known as a page frame. The operating system's job is to map the pages in the page frames.
 
-# 25) What is the page fault?
+# 24) What is the page fault?
 An error occurs when the CPU tries to access a specific block of memory address not present in the physical memory (RAM).
 
-# 26) What is the difference between logical and physical addresses?
+# 25) What is the difference between logical and physical addresses?
 -  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/860c491c-aa13-4856-bb44-8ef2064f4329)
+
+# 26) What is thrashing?
+It is a scenario when continuous page fault and paging activities occur. Thrashing could lead to a program collapse and degraded CPU performance.
+
+# 27) What is different between primary memory and secondary memory.
+-  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/f9e79a02-b404-407e-ad29-a207f08b95d5)
