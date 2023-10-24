@@ -143,3 +143,5 @@ When a page is transferred from the secondary memory to the main memory, it requ
 # 25) What is the page fault?
 An error occurs when the CPU tries to access a specific block of memory address not present in the physical memory (RAM).
 
+# 26) What is the difference between logical and physical addresses?
+-  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/860c491c-aa13-4856-bb44-8ef2064f4329)
