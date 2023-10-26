@@ -151,3 +151,5 @@ It is a scenario when continuous page fault and paging activities occur. Thrashi
 
 # 27) What is different between primary memory and secondary memory.
 -  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/f9e79a02-b404-407e-ad29-a207f08b95d5)
+
+# 28) 
