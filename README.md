@@ -152,4 +152,7 @@ It is a scenario when continuous page fault and paging activities occur. Thrashi
 # 27) What is different between primary memory and secondary memory.
 -  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS/assets/117765637/f9e79a02-b404-407e-ad29-a207f08b95d5)
 
-# 28) 
+# 28) What is Spooling?
+Spooling is a process in which data is temporarily held to be used and executed by a device, program, or system. Data is sent to and stored in memory or other volatile storage until the program or computer requests it for execution.
+
+
